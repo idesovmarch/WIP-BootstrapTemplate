@@ -1,0 +1,23 @@
+.card {
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.jumbotron{
+  height: 500px;
+  width: auto;
+}
+
+
+.footer{
+  height: 50px;
+  width: auto;
+  color: grey;
+}
+
+.picture {
+  width: 180%;
+  height: auto;
+  margin-top: 30px;
+}
